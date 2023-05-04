@@ -1,5 +1,3 @@
-# snowxc
-
 # Integrating F5 Distributed Cloud Service with ServiceNow
 
 ## Overview
